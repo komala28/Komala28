@@ -91,6 +91,150 @@
 
 ---
 
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+<h3 align="center">🤖 AI Resume Analyzer</h3>
+
+<p align="center">
+<img src="PROJECT_IMAGE_URL" width="400" />
+</p>
+
+<p align="center">
+An AI-powered resume analysis tool that compares resumes with job descriptions and provides ATS score, skill gaps, and improvement suggestions.
+</p>
+
+<p align="center">
+
+<b>Tech Stack</b>
+
+React.js • Flask • Python • NLP • OpenAI API • Tailwind CSS
+
+</p>
+
+<p align="center">
+<a href="GITHUB_LINK">
+<img src="https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github">
+</a>
+
+<a href="LIVE_DEMO_LINK">
+<img src="https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge">
+</a>
+</p>
+
+</td>
+
+
+<td width="50%">
+
+<h3 align="center">🌐 Smart Team Work OS</h3>
+
+<p align="center">
+<img src="PROJECT_IMAGE_URL" width="400" />
+</p>
+
+<p align="center">
+A collaborative workspace platform to manage tasks, teams, projects, and productivity workflows.
+</p>
+
+<p align="center">
+
+<b>Tech Stack</b>
+
+React.js • Node.js • Express.js • MongoDB • JWT
+
+</p>
+
+<p align="center">
+<a href="GITHUB_LINK">
+<img src="https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github">
+</a>
+
+<a href="LIVE_DEMO_LINK">
+<img src="https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge">
+</a>
+</p>
+
+</td>
+
+</tr>
+
+
+<tr>
+
+<td width="50%">
+
+<h3 align="center">🔥 Forest Fire Spread Prediction</h3>
+
+<p align="center">
+<img src="PROJECT_IMAGE_URL" width="400" />
+</p>
+
+<p align="center">
+Machine learning system that predicts forest fire spread using satellite data and geospatial analysis.
+</p>
+
+<p align="center">
+
+<b>Tech Stack</b>
+
+Python • Machine Learning • QGIS • GeoPandas • Rasterio
+
+</p>
+
+<p align="center">
+<a href="GITHUB_LINK">
+<img src="https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github">
+</a>
+</p>
+
+</td>
+
+
+<td width="50%">
+
+<h3 align="center">📊 GitHub Profile Analyzer</h3>
+
+<p align="center">
+<img src="PROJECT_IMAGE_URL" width="400" />
+</p>
+
+<p align="center">
+A developer analytics tool that analyzes GitHub profiles, repositories, languages, and contribution insights.
+</p>
+
+<p align="center">
+
+<b>Tech Stack</b>
+
+Node.js • Express.js • MySQL • GitHub API
+
+</p>
+
+<p align="center">
+<a href="GITHUB_LINK">
+<img src="https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github">
+</a>
+
+<a href="LIVE_DEMO_LINK">
+<img src="https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge">
+</a>
+
+</p>
+
+</td>
+
+</tr>
+
+</table>
+
+----
+
 ⭐ Thanks for visiting my profile!
 
 <!--
