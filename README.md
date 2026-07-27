@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Komali Sirigirisetti</h1>
+<h1 align="center">
+  👋 Hi, I'm <code>Komala Sirigirisetti</code>
+</h1>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Software+Developer;Python+%7C+Flask+%7C+React;Backend+%26+API+Developer;Building+Real-World+Projects;Open+to+Software+Engineer+Opportunities"/>
@@ -268,13 +270,7 @@ Node.js • Express.js • MySQL • GitHub API
 
 ----
 
-## 🐍 Contribution Snake
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/komala28/komala28/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
-----
 
 ⭐ Thanks for visiting my profile!
 
