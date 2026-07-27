@@ -65,24 +65,28 @@
 ---
 <h2 align="center">💻 Tech Stack</h2>
 
+<table align="center">
+<tr>
+<td>
+
 ### 👨‍💻 Languages
-
 <p>
-<img src="https://skillicons.dev/icons?i=python,js,html,css,mysql" />
+<img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css,mysql" />
 </p>
 
-### ⚙️ Frameworks
-
+### 🚀 Frameworks & Libraries
 <p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,flask" />
+<img src="https://skillicons.dev/icons?i=flask,react,nodejs" />
 </p>
 
-### 🛠️ Tools
-
+### 🛠️ Tools & Technologies
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,npm" />
 </p>
 
+</td>
+</tr>
+</table>
 
 
 ---
