@@ -1,8 +1,9 @@
-# Hi 👋, I'm Komali Sirigirisetti
+<h1 align="center">Hi 👋, I'm Komali Sirigirisetti</h1>
 
-### 🚀 Software Developer
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Software+Developer;Python+%7C+Flask+%7C+React;Backend+%26+API+Developer;Building+Real-World+Projects;Open+to+Software+Engineer+Opportunities"/>
+</p>
 
-I'm passionate about building backend applications, REST APIs, automation, and full-stack web applications.
 
 ---
 
