@@ -30,26 +30,55 @@
 
 ---
 
-## 📊 GitHub Analytics
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=komala28&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=komala28&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=komala28&theme=github-dark&hide_border=true" />
-</p>
-
-----
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Tech CSE Student
-- 💻 Python Developer
-- 🌱 Learning Flask, Docker & n8n
-- 🚀 Interested in Backend Development
-- 📫 Reach me: komalisiri96@gmail.com
+```python
+class Komali:
+
+    def __init__(self):
+        self.role = "Software Developer"
+        self.education = "B.Tech CSE"
+        self.location = "India"
+
+        self.languages = [
+            "Python",
+            "JavaScript",
+            "SQL"
+        ]
+
+        self.frontend = [
+            "React",
+            "HTML",
+            "CSS"
+        ]
+
+        self.backend = [
+            "Flask",
+            "Node.js"
+        ]
+
+        self.database = [
+            "MySQL"
+        ]
+
+        self.tools = [
+            "Git",
+            "GitHub",
+            "VS Code",
+            "Postman",
+            "Docker"
+        ]
+
+        self.currently_learning = [
+            "Docker",
+            "System Design",
+            "n8n Automation"
+        ]
+
+        self.goal = "Become a Software Engineer"
+```
 
 ---
 
