@@ -32,53 +32,36 @@
 
 
 
-## 👨‍💻 About Me
 
-```python
-class Komali:
+<h2 align="center">💫 About Me</h2>
 
-    def __init__(self):
-        self.role = "Software Developer"
-        self.education = "B.Tech CSE"
-        self.location = "India"
+<table align="center">
+<tr border="none">
+<td width="55%">
 
-        self.languages = [
-            "Python",
-            "JavaScript",
-            "SQL"
-        ]
+🎓 B.Tech CSE Student
 
-        self.frontend = [
-            "React",
-            "HTML",
-            "CSS"
-        ]
+💻 Software Developer
 
-        self.backend = [
-            "Flask",
-            "Node.js"
-        ]
+🚀 Learning Full Stack Development
 
-        self.database = [
-            "MySQL"
-        ]
+🐍 Python Enthusiast
 
-        self.tools = [
-            "Git",
-            "GitHub",
-            "VS Code",
-            "Postman",
-            "Docker"
-        ]
+⚛️ React Developer
 
-        self.currently_learning = [
-            "Docker",
-            "System Design",
-            "n8n Automation"
-        ]
+📚 Currently Learning Docker & n8n
 
-        self.goal = "Become a Software Engineer"
-```
+🎯 Goal: Software Engineer
+
+</td>
+
+<td width="45%">
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="280"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
