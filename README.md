@@ -63,8 +63,25 @@
 
 
 ---
+<h2 align="center">💻 Tech Stack</h2>
 
-## 🛠️ Tech Stack
+### 👨‍💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,html,css,mysql" />
+</p>
+
+### ⚙️ Frameworks
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,flask" />
+</p>
+
+### 🛠️ Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,npm" />
+</p>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
