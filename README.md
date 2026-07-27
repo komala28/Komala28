@@ -122,9 +122,7 @@ React.js • Flask • Python • NLP • OpenAI API • Tailwind CSS
 <img src="https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github">
 </a>
 
-<a href="LIVE_DEMO_LINK">
-<img src="https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge">
-</a>
+
 </p>
 
 </td>
@@ -230,6 +228,43 @@ Node.js • Express.js • MySQL • GitHub API
 </tr>
 
 </table>
+
+----
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=komala28&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=komala28&layout=compact&theme=tokyonight&hide_border=true" />
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=komala28&theme=tokyonight&hide_border=true" />
+
+</p>
+
+----
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=komala28&theme=tokyonight&no-frame=true&row=1&column=7" />
+
+</p>
+----
+
+## 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=komala28&theme=tokyo-night" />
+
+</p>
 
 ----
 
