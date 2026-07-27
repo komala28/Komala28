@@ -280,8 +280,6 @@ Node.js • Express.js • MySQL • GitHub API
 
 ----
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
 ## 👀 Profile Visitors
 
 <p align="center">
@@ -290,7 +288,18 @@ Node.js • Express.js • MySQL • GitHub API
 
 </p>
 
-⭐ Thanks for visiting my profile!
+-----
+
+
+<h2 align="center">⭐ Thanks for Visiting My Profile ⭐</h2>
+
+<p align="center">
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+</p>
+
+<p align="center">
+💻 <b>Happy Coding</b> • 🚀 <b>Keep Building</b> • 🌟 <b>Never Stop Learning</b>
+</p>
 
 <!--
 **komala28/Komala28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
