@@ -30,38 +30,35 @@
 
 ---
 
-
-
-
 <h2 align="center">💫 About Me</h2>
 
 <table align="center">
-<tr border="none">
-<td width="55%">
+<tr>
 
-🎓 B.Tech CSE Student
+<td width="60%">
 
-💻 Software Developer
+### 👨‍💻 Software Developer
 
-🚀 Learning Full Stack Development
-
-🐍 Python Enthusiast
-
-⚛️ React Developer
-
-📚 Currently Learning Docker & n8n
-
-🎯 Goal: Software Engineer
+- 🚀 Passionate about building scalable web applications
+- 🌱 Currently learning **Docker**, **System Design**, and **n8n**
+- 💻 Skilled in **Python**, **Flask**, **React**, **Node.js**, and **MySQL**
+- 📚 Solving **LeetCode** problems to strengthen DSA
+- 🎯 Goal: Become a Software Engineer at a top product-based company
+- ⚡ Love building backend APIs and automation projects
 
 </td>
 
-<td width="45%">
+<td width="40%" align="center">
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="280"/>
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="320"/>
 
 </td>
+
 </tr>
 </table>
+
+
+
 
 ---
 
