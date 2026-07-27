@@ -118,7 +118,7 @@ React.js • Flask • Python • NLP • OpenAI API • Tailwind CSS
 </p>
 
 <p align="center">
-<a href="GITHUB_LINK">
+<a href="https://github.com/komala28">
 <img src="https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github">
 </a>
 
@@ -155,8 +155,7 @@ React.js • Node.js • Express.js • MongoDB • JWT
 <img src="https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github">
 </a>
 
-<a href="LIVE_DEMO_LINK">
-<img src="https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge">
+
 </a>
 </p>
 
@@ -221,8 +220,7 @@ Node.js • Express.js • MySQL • GitHub API
 <img src="https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github">
 </a>
 
-<a href="LIVE_DEMO_LINK">
-<img src="https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge">
+
 </a>
 
 </p>
