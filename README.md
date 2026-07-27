@@ -12,7 +12,7 @@ I'm passionate about building backend applications, REST APIs, automation, and f
 - 💻 Python Developer
 - 🌱 Learning Flask, Docker & n8n
 - 🚀 Interested in Backend Development
-- 📫 Reach me: your-email@example.com
+- 📫 Reach me: komalisiri96@gmail.com
 
 ---
 
