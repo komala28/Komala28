@@ -235,33 +235,29 @@ Node.js • Express.js • MySQL • GitHub API
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=komala28&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=komala28&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=komala28&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=komala28&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=komala28&theme=tokyonight&hide_border=true"/>
 </p>
-----
+
+---
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=komala28&theme=tokyonight&no-frame=true&row=1&column=7" />
-
+  <img src="https://github-profile-trophy.vercel.app/?username=komala28&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
-----
+
+---
 
 ## 📈 Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=komala28&theme=tokyo-night" />
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=komala28&theme=tokyo-night"/>
 </p>
 
 ----
@@ -296,6 +292,7 @@ Node.js • Express.js • MySQL • GitHub API
 <p align="center">
 💻 <b>Happy Coding</b> • 🚀 <b>Keep Building</b> • 🌟 <b>Never Stop Learning</b>
 </p>
+
 
 <!--
 **komala28/Komala28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
