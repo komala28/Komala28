@@ -1,212 +1,316 @@
-<h1 align="center">Hi 👋, I'm Komala Sirigirisetti</h1>
+<!-- ======================= HERO ======================= -->
+
+<h1 align="center">
+  Hi 👋, I'm <span style="color:#58A6FF;">Komala Sirigirisetti</span>
+</h1>
+
+<h3 align="center">
+  Software Developer • Backend Engineer • AI & Full Stack Enthusiast
+</h3>
 
 <p align="center">
-  <strong>Software Developer | Python | Flask | React | Backend & API Development</strong>
-</p>
-
-<p align="center">
-  I build practical web applications, backend APIs, automation tools, and AI-powered solutions.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Python+%7C+Flask+%7C+React+%7C+Node.js;Backend+%26+REST+API+Development;AI-Powered+Application+Development;Building+Real-World+Software;Always+Learning+%7C+Always+Building" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://github.com/komala28">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/komala-sirigirisetti-288579328/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:komalisiri96@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://leetcode.com/u/komali_28/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </p>
 
----
-
-## About Me
-
-I'm a Computer Science graduate focused on software development and building real-world applications.
-
-* 💻 Strong interest in **Python, backend development, APIs, and full-stack development**
-* 🚀 Building applications using **Flask, React, Node.js, and SQL**
-* 🤖 Interested in **AI-powered applications and automation**
-* 🧩 Practicing **Data Structures & Algorithms** through LeetCode
-* 🐳 Currently learning **Docker, System Design, and n8n**
-* 🌱 Continuously improving my software engineering and problem-solving skills
-* 🎯 Looking for opportunities to contribute to impactful software products
-
----
-
-## Technical Skills
-
-### Languages
-
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-</p>
-
-### Frameworks & Libraries
-
-<p>
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-</p>
-
-### Databases & Tools
-
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=komala28&label=Profile%20Views&color=58A6FF&style=for-the-badge" />
 </p>
 
 ---
 
-## Featured Projects
+<!-- ======================= ABOUT ======================= -->
 
-### 01. AI Resume Analyzer
+<h2 align="center">🚀 About Me</h2>
 
-**AI-powered resume analysis and job matching platform.**
+<p align="center">
+  I'm a Computer Science graduate passionate about building
+  <b>scalable, practical, and user-focused software applications.</b>
+</p>
 
-Analyzes resumes against job descriptions and provides an ATS-style score, skill gaps, and improvement suggestions.
+<table align="center">
+<tr>
+<td width="50%" valign="top">
 
-**Technologies:**
-`Python` `Flask` `React` `NLP` `OpenAI API` `Tailwind CSS`
+### 💻 What I Do
 
-<p>
-  <a href="https://github.com/komala28">
-    <img src="https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white" />
-  </a>
+* 🔹 Build backend APIs with Python & Flask
+* 🔹 Develop responsive interfaces with React
+* 🔹 Create REST APIs and web applications
+* 🔹 Work with SQL & NoSQL databases
+* 🔹 Build AI-powered applications
+* 🔹 Automate repetitive workflows
+* 🔹 Practice DSA & problem solving
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🎯 Current Focus
+
+* 🐳 Docker & containerization
+* 🏗️ System Design
+* 🤖 AI application development
+* ⚙️ Workflow automation with n8n
+* 🧠 Data Structures & Algorithms
+* ☁️ Cloud & deployment technologies
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ======================= TECH STACK ======================= -->
+
+<h2 align="center">⚡ Tech Stack</h2>
+
+<h3 align="center">Languages</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,html,css" />
+</p>
+
+<h3 align="center">Frontend & Backend</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,flask" />
+</p>
+
+<h3 align="center">Database & Tools</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,docker,postman,vscode,npm" />
 </p>
 
 ---
 
-### 02. Smart Team Work OS
+<!-- ======================= PROJECTS ======================= -->
 
-**Collaborative workspace for team and project management.**
+<h2 align="center">🔥 Featured Projects</h2>
 
-A productivity platform designed to help teams manage projects, tasks, workflows, and collaboration in one place.
+<table>
+<tr>
 
-**Technologies:**
-`React` `Node.js` `Express.js` `MongoDB` `JWT`
+<td width="50%" valign="top">
+
+<h3 align="center">🤖 AI Resume Analyzer</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI-Powered-8A2BE2?style=flat-square" />
+  <img src="https://img.shields.io/badge/NLP-Processing-FF6F00?style=flat-square" />
+</p>
 
 <p>
-  <a href="https://github.com/komala28">
-    <img src="https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white" />
-  </a>
+AI-powered resume analysis platform that compares resumes with job descriptions and provides ATS-style scoring, skill-gap analysis, and improvement suggestions.
+</p>
+
+<p align="center">
+<b>Python • Flask • React • NLP • OpenAI API</b>
+</p>
+
+<p align="center">
+<a href="https://github.com/komala28">
+  <img src="https://img.shields.io/badge/VIEW%20PROJECT-58A6FF?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🌐 Smart Team Work OS</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Full--Stack-Application-00C853?style=flat-square" />
+</p>
+
+<p>
+Collaborative workspace designed for managing teams, projects, tasks, workflows, and productivity from a single platform.
+</p>
+
+<p align="center">
+<b>React • Node.js • Express • MongoDB • JWT</b>
+</p>
+
+<p align="center">
+<a href="https://github.com/komala28">
+  <img src="https://img.shields.io/badge/VIEW%20PROJECT-58A6FF?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</p>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+<h3 align="center">🔥 Forest Fire Prediction</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Machine-Learning-FF5722?style=flat-square" />
+  <img src="https://img.shields.io/badge/Geospatial-Analysis-4CAF50?style=flat-square" />
+</p>
+
+<p>
+Machine learning and geospatial analysis project focused on predicting forest fire spread using satellite and geographic data.
+</p>
+
+<p align="center">
+<b>Python • Machine Learning • QGIS • GeoPandas • Rasterio</b>
+</p>
+
+<p align="center">
+<a href="https://github.com/komala28">
+  <img src="https://img.shields.io/badge/VIEW%20PROJECT-58A6FF?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3 align="center">📊 GitHub Profile Analyzer</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/API-Integration-2196F3?style=flat-square" />
+  <img src="https://img.shields.io/badge/Analytics-Platform-9C27B0?style=flat-square" />
+</p>
+
+<p>
+Developer analytics application that analyzes GitHub profiles, repositories, programming languages, and developer activity.
+</p>
+
+<p align="center">
+<b>Node.js • Express • MySQL • GitHub API</b>
+</p>
+
+<p align="center">
+<a href="https://github.com/komala28">
+  <img src="https://img.shields.io/badge/VIEW%20PROJECT-58A6FF?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</p>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<!-- ======================= CURRENTLY LEARNING ======================= -->
+
+<h2 align="center">📚 Currently Learning</h2>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/System%20Design-6C63FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+<img src="https://img.shields.io/badge/DSA-FF6B35?style=for-the-badge" />
+
 </p>
 
 ---
 
-### 03. Forest Fire Spread Prediction
+<!-- ======================= GITHUB ======================= -->
 
-**Machine learning and geospatial analysis project.**
+<h2 align="center">📊 GitHub Overview</h2>
 
-Uses satellite and geospatial data to analyze and predict forest fire spread patterns.
+<p align="center">
 
-**Technologies:**
-`Python` `Machine Learning` `QGIS` `GeoPandas` `Rasterio`
+<a href="https://github.com/komala28">
+<img src="https://img.shields.io/github/followers/komala28?style=for-the-badge&logo=github&label=Followers" />
+</a>
 
-<p>
-  <a href="https://github.com/komala28">
-    <img src="https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white" />
-  </a>
+<a href="https://github.com/komala28?tab=repositories">
+<img src="https://img.shields.io/github/repos/komala28?style=for-the-badge&logo=github&label=Repositories" />
+</a>
+
+<a href="https://github.com/komala28?tab=stars">
+<img src="https://img.shields.io/github/stars/komala28?style=for-the-badge&logo=github&label=Stars" />
+</a>
+
 </p>
 
 ---
 
-### 04. GitHub Profile Analyzer
+<!-- ======================= LEETCODE ======================= -->
 
-**Developer analytics platform powered by the GitHub API.**
+<h2 align="center">🧠 Problem Solving</h2>
 
-Analyzes GitHub profiles and repositories to provide insights into programming languages, repositories, activity, and developer statistics.
-
-**Technologies:**
-`Node.js` `Express.js` `MySQL` `GitHub API`
-
-<p>
-  <a href="https://github.com/komala28">
-    <img src="https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
-## Currently Learning
-
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/System%20Design-6C63FF?style=flat-square" />
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-FF6B35?style=flat-square" />
-</p>
-
----
-
-## Problem Solving
-
-<p>
+<p align="center">
   <a href="https://leetcode.com/u/komali_28/">
-    <img src="https://img.shields.io/badge/LeetCode-komali__28-FFA116?style=flat-square&logo=leetcode&logoColor=black" />
+    <img src="https://img.shields.io/badge/LeetCode-komali__28-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </p>
 
-I regularly practice coding problems to improve:
-
-* Data Structures
-* Algorithms
-* Problem Solving
-* Time & Space Complexity
-* Interview Preparation
-
----
-
-## GitHub
-
 <p align="center">
-  <img src="https://img.shields.io/github/followers/komala28?label=Followers&style=flat-square&logo=github" />
-  <img src="https://img.shields.io/github/stars/komala28?label=Stars&style=flat-square&logo=github" />
-  <img src="https://img.shields.io/github/repos/komala28?label=Repositories&style=flat-square&logo=github" />
+  Practicing Data Structures, Algorithms, problem solving,
+  and technical interview questions.
 </p>
 
 ---
 
-## Career Focus
+<!-- ======================= CAREER ======================= -->
 
-I'm interested in opportunities involving:
-
-**Software Development · Backend Development · Full Stack Development · Python Development · API Development · AI Applications**
-
----
-
-## Let's Connect
+<h2 align="center">🎯 Career Focus</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/komala-sirigirisetti-288579328/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:komalisiri96@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <img src="https://img.shields.io/badge/Software%20Development-181717?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Backend%20Development-181717?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Full%20Stack-181717?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python%20Development-181717?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20Applications-181717?style=for-the-badge" />
 </p>
 
 ---
 
+<!-- ======================= CONNECT ======================= -->
+
+<h2 align="center">🤝 Let's Connect</h2>
+
 <p align="center">
-  <i>Building. Learning. Improving.</i>
+  I'm always interested in connecting with developers, recruiters,
+  and people building interesting technology.
 </p>
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/komala-sirigirisetti-288579328/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:komalisiri96@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+<h3 align="center">
+  ⭐ Build • Learn • Improve • Repeat ⭐
+</h3>
+
+<p align="center">
+  <i>Thanks for visiting my profile!</i>
+</p>
+
 
