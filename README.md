@@ -235,17 +235,22 @@ Node.js • Express.js • MySQL • GitHub API
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=komala28&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=komala28&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="./profile/stats.svg" width="48%" />
+  <img src="./profile/top-langs.svg" width="48%" />
+</p>
 
 ## 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=komala28&theme=tokyonight&no-frame=true&row=1&column=6)
+<p align="center">
+  <img src="./profile/trophy.svg" width="90%" />
+</p>
 
 ## 📈 Contribution Graph
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=komala28&theme=tokyo-night)
+<p align="center">
+  <img src="./profile/activity.svg" width="100%" />
+</p>
 
 ---
 
