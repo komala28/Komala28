@@ -222,7 +222,6 @@ Node.js • Express.js • MySQL • GitHub API
 
 <img src="https://img.shields.io/github/followers/komala28?style=for-the-badge&logo=github&label=Followers" />
 <img src="https://img.shields.io/github/stars/komala28?style=for-the-badge&logo=github&label=Stars" />
-<img src="https://img.shields.io/github/repos/komala28?style=for-the-badge&logo=github&label=Repositories" />
 
 </p>
 
