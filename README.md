@@ -235,26 +235,17 @@ Node.js • Express.js • MySQL • GitHub API
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=komala28&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=komala28&layout=compact&theme=tokyonight&hide_border=true" height="180" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=komala28&show_icons=true&theme=tokyonight)
 
----
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=komala28&layout=compact&theme=tokyonight)
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=komala28&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=komala28&theme=tokyonight&no-frame=true&row=1&column=6)
 
 ## 📈 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=komala28&theme=tokyo-night" />
-</p>
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=komala28&theme=tokyo-night)
 
 ---
 
